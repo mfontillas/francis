@@ -1,0 +1,12 @@
+.laceborder{
+background-image: url("https://solaria.neocities.org/bits/whitelace2.png");
+background-repeat: no-repeat;
+background-size: contain;
+width: 300px;
+height: 200px;
+}
+.textcontainer{
+padding: 15px;
+overflow: scroll;
+}
+
